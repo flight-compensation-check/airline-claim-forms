@@ -1,0 +1,14 @@
+id,airline,claim_url,opens,checked,details
+ba,British Airways,https://www.britishairways.com/travel/feedbackclaims/public,"British Airways’ feedback and claims portal (choose ""Raise a new case"")",2026-11-08,https://flightcompensationcheck.com/british-airways-compensation
+easyjet,easyJet,https://www.easyjet.com/claim/en/eu261,easyJet’s compensation claims form,2026-11-08,https://flightcompensationcheck.com/easyjet-compensation-claim
+ryanair,Ryanair,https://help.ryanair.com/hc/en-gb/sections/12488602662545-Passenger-Rights,"Ryanair’s passenger rights help pages, which lead to its claim form",2026-11-08,https://flightcompensationcheck.com/ryanair-compensation-claim
+jet2,Jet2,https://www.jet2.com/delays-and-cancellations/submit-a-claim,Jet2’s claim form,2026-11-08,https://flightcompensationcheck.com/jet2-compensation-claim
+tui,TUI,https://www.tui.co.uk/destinations/contact-us/flight-delays,"TUI’s flight delay claim form (for TOM, BY or BLX flight numbers)",2026-11-08,https://flightcompensationcheck.com/tui-flight-delay-claim
+wizz,Wizz Air,https://www.wizzair.com/en-gb/help-centre/my-wizz-account/claims-and-compensation,"Wizz Air’s claims and compensation page (choose ""Claim submission"")",2026-11-08,https://flightcompensationcheck.com/wizz-air-compensation
+virgin,Virgin Atlantic,https://www.virginatlantic.com/help/categories/dc2a02fb-d3fe-4e14-8a09-413bb96a8584,Virgin Atlantic’s disruption and compensation help pages,2026-11-08,https://flightcompensationcheck.com/virgin-atlantic-compensation
+loganair,Loganair,https://www.loganair.co.uk/helpcentre/compensation/,"Loganair’s compensation page, which links its claim form",2026-11-08,https://flightcompensationcheck.com/loganair-compensation
+aerlingus,Aer Lingus,https://www.aerlingus.com/support/customer-care/requests-and-enquiries/,"Aer Lingus’ requests page (choose ""Claim compensation"")",2026-11-08,https://flightcompensationcheck.com/aer-lingus-compensation
+klm,KLM,https://www.klm.co.uk/claim,KLM’s claim form (find your booking with its booking code and your name),2026-11-09,https://flightcompensationcheck.com/klm-compensation-claim
+lufthansa,Lufthansa,https://www.lufthansa.com/gb/en/feedback,"Lufthansa’s contact forms page (choose ""Request compensation"")",2026-11-09,https://flightcompensationcheck.com/lufthansa-compensation-claim
+airfrance,Air France,https://wwws.airfrance.co.uk/claim,Air France’s claim form (find your booking with its booking reference and your name),2026-11-09,https://flightcompensationcheck.com/air-france-compensation-claim
+aircanada,Air Canada,https://www.aircanada.com/customerrelations,"Air Canada’s customer care form (choose ""Flight Delay or Cancellation Claim"")",2026-11-09,https://flightcompensationcheck.com/air-canada-compensation-claim

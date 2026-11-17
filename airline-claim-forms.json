@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ba",
+    "airline": "British Airways",
+    "claim_url": "https://www.britishairways.com/travel/feedbackclaims/public",
+    "opens": "British Airways’ feedback and claims portal (choose \"Raise a new case\")",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/british-airways-compensation"
+  },
+  {
+    "id": "easyjet",
+    "airline": "easyJet",
+    "claim_url": "https://www.easyjet.com/claim/en/eu261",
+    "opens": "easyJet’s compensation claims form",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/easyjet-compensation-claim"
+  },
+  {
+    "id": "ryanair",
+    "airline": "Ryanair",
+    "claim_url": "https://help.ryanair.com/hc/en-gb/sections/12488602662545-Passenger-Rights",
+    "opens": "Ryanair’s passenger rights help pages, which lead to its claim form",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/ryanair-compensation-claim"
+  },
+  {
+    "id": "jet2",
+    "airline": "Jet2",
+    "claim_url": "https://www.jet2.com/delays-and-cancellations/submit-a-claim",
+    "opens": "Jet2’s claim form",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/jet2-compensation-claim"
+  },
+  {
+    "id": "tui",
+    "airline": "TUI",
+    "claim_url": "https://www.tui.co.uk/destinations/contact-us/flight-delays",
+    "opens": "TUI’s flight delay claim form (for TOM, BY or BLX flight numbers)",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/tui-flight-delay-claim"
+  },
+  {
+    "id": "wizz",
+    "airline": "Wizz Air",
+    "claim_url": "https://www.wizzair.com/en-gb/help-centre/my-wizz-account/claims-and-compensation",
+    "opens": "Wizz Air’s claims and compensation page (choose \"Claim submission\")",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/wizz-air-compensation"
+  },
+  {
+    "id": "virgin",
+    "airline": "Virgin Atlantic",
+    "claim_url": "https://www.virginatlantic.com/help/categories/dc2a02fb-d3fe-4e14-8a09-413bb96a8584",
+    "opens": "Virgin Atlantic’s disruption and compensation help pages",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/virgin-atlantic-compensation"
+  },
+  {
+    "id": "loganair",
+    "airline": "Loganair",
+    "claim_url": "https://www.loganair.co.uk/helpcentre/compensation/",
+    "opens": "Loganair’s compensation page, which links its claim form",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/loganair-compensation"
+  },
+  {
+    "id": "aerlingus",
+    "airline": "Aer Lingus",
+    "claim_url": "https://www.aerlingus.com/support/customer-care/requests-and-enquiries/",
+    "opens": "Aer Lingus’ requests page (choose \"Claim compensation\")",
+    "checked": "2026-11-08",
+    "details": "https://flightcompensationcheck.com/aer-lingus-compensation"
+  },
+  {
+    "id": "klm",
+    "airline": "KLM",
+    "claim_url": "https://www.klm.co.uk/claim",
+    "opens": "KLM’s claim form (find your booking with its booking code and your name)",
+    "checked": "2026-11-09",
+    "details": "https://flightcompensationcheck.com/klm-compensation-claim"
+  },
+  {
+    "id": "lufthansa",
+    "airline": "Lufthansa",
+    "claim_url": "https://www.lufthansa.com/gb/en/feedback",
+    "opens": "Lufthansa’s contact forms page (choose \"Request compensation\")",
+    "checked": "2026-11-09",
+    "details": "https://flightcompensationcheck.com/lufthansa-compensation-claim"
+  },
+  {
+    "id": "airfrance",
+    "airline": "Air France",
+    "claim_url": "https://wwws.airfrance.co.uk/claim",
+    "opens": "Air France’s claim form (find your booking with its booking reference and your name)",
+    "checked": "2026-11-09",
+    "details": "https://flightcompensationcheck.com/air-france-compensation-claim"
+  },
+  {
+    "id": "aircanada",
+    "airline": "Air Canada",
+    "claim_url": "https://www.aircanada.com/customerrelations",
+    "opens": "Air Canada’s customer care form (choose \"Flight Delay or Cancellation Claim\")",
+    "checked": "2026-11-09",
+    "details": "https://flightcompensationcheck.com/air-canada-compensation-claim"
+  }
+]
